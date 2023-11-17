@@ -7,7 +7,7 @@ jobs:
     name: Directory Listing Index
     steps:
       - name: Generate Directory Listings
-        uses: jayanta525/github-pages/directory-listing@v3.0.0
+        uses: jayanta525/github-pages-directory-listing@v3.0.0
         with:
           FOLDER: icons
 
