@@ -1,7 +1,7 @@
 **/*.psd
-templates/*.psdt
-templates/*.ai
-!templates/win10.psdt
-!templates/win11.psdt
+src/templates/*.psdt
+src/templates/*.ai
+!src/templates/win10.psdt
+!src/templates/win11.psdt
 
 **/*.png
