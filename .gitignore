@@ -1,7 +1,11 @@
 **/*.psd
+**/*.afphoto
+**/*.afphoto~lock~
 src/templates/*.psdt
+src/templates/*.aftemplate
 src/templates/*.ai
 !src/templates/win10.psdt
 !src/templates/win11.psdt
+!src/templates/win11.aftemplate
 
 **/*.png
